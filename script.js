@@ -18,7 +18,7 @@ function populateRegions() {
         option.textContent = region;
         regionSelect.appendChild(option);
     });
-}
+};
 
 // Apply search, region, and population filters
 function getFilteredCountries() {

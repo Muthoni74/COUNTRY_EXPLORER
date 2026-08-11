@@ -11,7 +11,6 @@ function setText(id, value) {
         el.textContent = value || 'N/A';
     }
 }
-
 function initDetailPage() {
     const name = decodeURIComponent(getQueryParam('name') || '');
     const officialName = decodeURIComponent(getQueryParam('officialName') || '');
