@@ -18,10 +18,6 @@ A small web project for exploring country data.
 2. Select a country to view more details.
 3. Use the back button to return to the main list.
 
-## Git
-
-This repository is configured with a remote at `https://github.com/Muthoni74/COUNTRY_EXPLORER.git`.
-
 ## Notes
 
 - Ensure the files remain in the same folder structure for the app to work locally.
